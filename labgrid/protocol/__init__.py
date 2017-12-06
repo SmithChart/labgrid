@@ -6,3 +6,4 @@ from .powerprotocol import PowerProtocol
 from .filetransferprotocol import FileTransferProtocol
 from .infoprotocol import InfoProtocol
 from .digitaloutputprotocol import DigitalOutputProtocol
+from .sdmuxprotocol import SdmuxProtocol
