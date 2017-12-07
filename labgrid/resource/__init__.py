@@ -10,3 +10,4 @@ from .udev import USBSerialPort
 from .common import Resource, ResourceManager, ManagedResource
 from .ykushpowerport import YKUSHPowerPort
 from .sdmux import SdmuxPort
+from .sdmux import NetworkSdmuxPort
